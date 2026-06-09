@@ -2,6 +2,8 @@ name: PR Checks
 
 on:
   pull_request:
+    # include `edited` so the PR-title lint re-runs when the title changes
+    types: [opened, edited, synchronize, reopened]
 
 jobs:
   verify:

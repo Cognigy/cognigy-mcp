@@ -5,7 +5,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 
 const version = process.argv[2];
 if (!version) {
-  console.error("Usage: sync-manifest-version.js <version>");
+  console.error("Usage: node scripts/sync-manifest-version.js <version>");
   process.exit(1);
 }
 

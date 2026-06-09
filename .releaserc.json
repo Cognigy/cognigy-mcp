@@ -50,7 +50,7 @@
       "@semantic-release/exec",
       {
         "prepareCmd": "node scripts/sync-manifest-version.js ${nextRelease.version} && npm run mcpb:pack",
-        "successCmd": "scripts/append-release-install-link.sh ${nextRelease.gitTag}"
+        "successCmd": "bash scripts/append-release-install-link.sh ${nextRelease.gitTag}"
       }
     ],
     [

@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > **This repository is deprecated.**
-> Development has moved to **[NiCE Cognigy Plugin](https://github.com/Cognigy/cognigy-plugin)** repository. Please migrate — this repo will no longer receive updates or support.
+> Development has moved to **[NiCE Cognigy Plugin](https://github.com/Cognigy/cognigy-plugin)**. Please migrate — this repo will no longer receive updates or support.
 
 # NiCE Cognigy MCP Connector
 

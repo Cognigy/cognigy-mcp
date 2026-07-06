@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **This repository is deprecated.**
+> Development has moved to **[NiCE Cognigy Plugin](https://github.com/Cognigy/cognigy-plugin)**. Please migrate — this repo will no longer receive updates or support.
+
 # NiCE Cognigy MCP Connector
 
 A Model Context Protocol (MCP) server that connects your AI assistant to the [Cognigy.AI](https://www.cognigy.com) REST API. Create, test, and improve LLM-based AI Agents through a self-improvement loop — without leaving your AI assistant.
@@ -280,7 +284,6 @@ Full privacy policy: [https://www.cognigy.com/privacy-policy](https://www.cognig
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/Cognigy/cognigy-mcp/issues)
-- **Cognigy support**: support@cognigy.com
 - **Documentation**: see [`docs/`](https://github.com/Cognigy/cognigy-mcp/tree/main/docs) folder
 
 ## Documentation
